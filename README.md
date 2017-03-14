@@ -1,11 +1,11 @@
-# Node Boilerplate
+# Presidents API
 
-> Set up a node project with various tools installed.
+> Setup endpoints for presidents
 
 ## Usage
 
-```bash
-git clone https://github.com/TylerGarlick/node-es7-boilerplate.git [name-of-project]
-```
+1. Create an endpoint for all presidents.  [GET] /presidents
+2. Create an endpoint for democratic presidents.  [GET] /presidents/democrats
+3. Create an endpoint for republican presidents.  [GET] /presidents/republican
+4. Create an endpoint for all other presidents.  [GET] /presidents/other
 
-Change the remote origins in git to push your changes to your own repositories.
